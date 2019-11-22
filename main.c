@@ -4,7 +4,7 @@
 int main()
 {
     int a,b;
-    printf("enter value");
+    printf("enter value is");
     scanf("%d\n%d",&a,&b);
     (a<b)?printf("b is greater"):printf("a is greater");
 
